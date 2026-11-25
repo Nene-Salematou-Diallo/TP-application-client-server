@@ -3,7 +3,7 @@
 **Étudiantes :** Nene Salematou DIALLO et Zita Eliane Mame Ndela SENE
 **Professeur :** Dr Keba GUEYE — UCAD / École Supérieure Polytechnique, Département Génie Informatique
 
-Rapport complet avec captures d'écran : [rapport_TP1.pdf](rapport_TP1.pdf) · Énoncé : [enonce_TP1.pdf](enonce_TP1.pdf)
+Rapport complet avec captures d'écran : [rapport_TP1.pdf](rapport_TP1.pdf) 
 
 ## Fichiers du TP
 
