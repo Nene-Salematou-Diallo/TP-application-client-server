@@ -19,7 +19,7 @@ import pymysql
 # --------------------------------------------------------------------------
 # Paramètres de connexion : ils sont DANS le programme distribué aux clients.
 # --------------------------------------------------------------------------
-SERVEUR_BDD = "192.168.56.11"
+SERVEUR_BDD = "192.168.204.11"
 PORT_BDD = 3306
 UTILISATEUR = "etudiant"
 MOT_DE_PASSE = "Etudiant@2026"
